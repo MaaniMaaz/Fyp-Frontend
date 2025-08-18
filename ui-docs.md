@@ -55,3 +55,8 @@
 - Date: 2025-10-13
 - Feature: Implement feedback system
 - Status: Completed
+
+## feat: Add bulk operations UI
+- Date: 2025-08-18
+- Feature: Add bulk operations UI
+- Status: Completed
