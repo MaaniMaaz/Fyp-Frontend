@@ -15,3 +15,8 @@
 - Date: 2025-10-09
 - Feature: Implement dark/light mode toggle
 - Status: Completed
+
+## feat: Add content filtering components
+- Date: 2025-08-21
+- Feature: Add content filtering components
+- Status: Completed
