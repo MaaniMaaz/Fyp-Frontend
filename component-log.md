@@ -55,3 +55,8 @@
 - Date: 2025-08-23
 - Feature: Add help and documentation
 - Status: Completed
+
+## feat: Create admin interface
+- Date: 2025-08-22
+- Feature: Create admin interface
+- Status: Completed
