@@ -50,3 +50,8 @@
 - Date: 2025-09-18
 - Feature: Implement push notifications
 - Status: Completed
+
+## feat: Add help and documentation
+- Date: 2025-08-23
+- Feature: Add help and documentation
+- Status: Completed
