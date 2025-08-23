@@ -16,3 +16,4 @@
 14. Add settings and preferences - 2025-08-19
 15. Implement search functionality - 2025-10-10
 16. Add video classification display - 2025-10-14
+17. Create productivity charts - 2025-08-23
