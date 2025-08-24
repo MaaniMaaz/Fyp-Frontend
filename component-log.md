@@ -35,3 +35,8 @@
 - Date: 2025-10-03
 - Feature: Add loading states and error handling
 - Status: Completed
+
+## feat: Create keyboard navigation
+- Date: 2025-08-24
+- Feature: Create keyboard navigation
+- Status: Completed
