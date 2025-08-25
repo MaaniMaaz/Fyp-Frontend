@@ -65,3 +65,8 @@
 - Date: 2025-10-14
 - Feature: Add keyboard shortcuts
 - Status: Completed
+
+## feat: Create progress indicators
+- Date: 2025-08-25
+- Feature: Create progress indicators
+- Status: Completed
