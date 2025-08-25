@@ -35,3 +35,8 @@
 - Date: 2025-10-12
 - Feature: Implement mobile-responsive design
 - Status: Completed
+
+## feat: Add internationalization support
+- Date: 2025-08-25
+- Feature: Add internationalization support
+- Status: Completed
