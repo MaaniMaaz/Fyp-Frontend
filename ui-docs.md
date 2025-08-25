@@ -25,3 +25,8 @@
 - Date: 2025-09-16
 - Feature: Create search functionality
 - Status: Completed
+
+## feat: Add user statistics cards
+- Date: 2025-08-25
+- Feature: Add user statistics cards
+- Status: Completed
