@@ -65,3 +65,8 @@
 - Date: 2025-10-07
 - Feature: Create print-friendly views
 - Status: Completed
+
+## feat: Add file upload components
+- Date: 2025-08-27
+- Feature: Add file upload components
+- Status: Completed
