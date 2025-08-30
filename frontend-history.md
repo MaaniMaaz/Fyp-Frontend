@@ -26,3 +26,4 @@
 24. Add internationalization support - 2025-08-25
 25. Create theme customization - 2025-08-25
 26. Add animation and transitions - 2025-09-01
+27. Implement lazy loading - 2025-08-30
