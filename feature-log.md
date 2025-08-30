@@ -40,3 +40,8 @@
 - Date: 2025-09-08
 - Feature: Implement theme customization
 - Status: Completed
+
+## feat: Add offline support with PWA
+- Date: 2025-08-30
+- Feature: Add offline support with PWA
+- Status: Completed
