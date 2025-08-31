@@ -65,3 +65,8 @@
 - Date: 2025-10-04
 - Feature: Add data export functionality
 - Status: Completed
+
+## feat: Implement drag and drop interface
+- Date: 2025-08-31
+- Feature: Implement drag and drop interface
+- Status: Completed
