@@ -20,3 +20,8 @@
 - Date: 2025-08-24
 - Feature: Create goal tracking interface
 - Status: Completed
+
+## feat: Add settings and preferences page
+- Date: 2025-08-31
+- Feature: Add settings and preferences page
+- Status: Completed
