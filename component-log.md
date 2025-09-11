@@ -25,3 +25,8 @@
 - Date: 2025-08-31
 - Feature: Add settings and preferences page
 - Status: Completed
+
+## feat: Implement productivity metrics charts
+- Date: 2025-09-11
+- Feature: Implement productivity metrics charts
+- Status: Completed
