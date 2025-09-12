@@ -42,3 +42,4 @@
 40. Add export functionality - 2025-09-04
 41. Create print-friendly views - 2025-10-16
 42. Add keyboard shortcuts - 2025-10-03
+43. Implement drag and drop - 2025-09-12
