@@ -43,3 +43,4 @@
 41. Create print-friendly views - 2025-10-16
 42. Add keyboard shortcuts - 2025-10-03
 43. Implement drag and drop - 2025-09-12
+44. Add file upload interface - 2025-09-14
