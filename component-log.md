@@ -40,3 +40,8 @@
 - Date: 2025-08-24
 - Feature: Create keyboard navigation
 - Status: Completed
+
+## feat: Add smooth animations and transitions
+- Date: 2025-09-17
+- Feature: Add smooth animations and transitions
+- Status: Completed
