@@ -45,3 +45,8 @@
 - Date: 2025-08-30
 - Feature: Add offline support with PWA
 - Status: Completed
+
+## feat: Create user onboarding flow
+- Date: 2025-09-18
+- Feature: Create user onboarding flow
+- Status: Completed
