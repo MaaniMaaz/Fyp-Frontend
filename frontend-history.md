@@ -37,3 +37,4 @@
 35. Implement feedback system - 2025-08-23
 36. Add social sharing features - 2025-10-05
 37. Create admin interface - 2025-10-05
+38. Add bulk operations - 2025-09-27
