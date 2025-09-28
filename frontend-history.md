@@ -29,3 +29,4 @@
 27. Implement lazy loading - 2025-08-30
 28. Add offline support - 2025-09-01
 29. Create PWA functionality - 2025-09-03
+30. Add push notifications - 2025-09-28
