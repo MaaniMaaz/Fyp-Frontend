@@ -75,3 +75,8 @@
 - Date: 2025-09-26
 - Feature: Add success animations
 - Status: Completed
+
+## feat: Create backup and restore UI
+- Date: 2025-09-29
+- Feature: Create backup and restore UI
+- Status: Completed
