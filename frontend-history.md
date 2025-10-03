@@ -41,3 +41,4 @@
 39. Implement advanced filtering - 2025-08-25
 40. Add export functionality - 2025-09-04
 41. Create print-friendly views - 2025-10-16
+42. Add keyboard shortcuts - 2025-10-03
