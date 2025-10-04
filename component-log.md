@@ -60,3 +60,8 @@
 - Date: 2025-08-22
 - Feature: Create admin interface
 - Status: Completed
+
+## feat: Add data export functionality
+- Date: 2025-10-04
+- Feature: Add data export functionality
+- Status: Completed
