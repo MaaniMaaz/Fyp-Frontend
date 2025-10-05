@@ -35,3 +35,4 @@
 33. Create user onboarding flow - 2025-10-02
 34. Add help and documentation - 2025-08-26
 35. Implement feedback system - 2025-08-23
+36. Add social sharing features - 2025-10-05
