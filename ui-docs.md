@@ -85,3 +85,8 @@
 - Date: 2025-10-16
 - Feature: Create deployment configuration
 - Status: Completed
+
+## feat: Add end-to-end testing
+- Date: 2025-10-07
+- Feature: Add end-to-end testing
+- Status: Completed
