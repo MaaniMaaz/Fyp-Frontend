@@ -60,3 +60,8 @@
 - Date: 2025-08-18
 - Feature: Add bulk operations UI
 - Status: Completed
+
+## feat: Create print-friendly views
+- Date: 2025-10-07
+- Feature: Create print-friendly views
+- Status: Completed
