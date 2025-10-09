@@ -10,3 +10,8 @@
 - Date: 2025-08-19
 - Feature: Add video player with YouTube integration
 - Status: Completed
+
+## feat: Implement dark/light mode toggle
+- Date: 2025-10-09
+- Feature: Implement dark/light mode toggle
+- Status: Completed
