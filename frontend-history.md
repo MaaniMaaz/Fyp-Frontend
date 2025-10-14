@@ -1,3 +1,4 @@
 # Frontend Development History
 
 1. Initial React app setup with TypeScript - 2025-09-23
+2. Add Tailwind CSS and component library - 2025-10-14
