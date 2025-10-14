@@ -20,3 +20,8 @@
 - Date: 2025-09-30
 - Feature: Implement family monitoring dashboard
 - Status: Completed
+
+## feat: Add video classification display
+- Date: 2025-10-14
+- Feature: Add video classification display
+- Status: Completed
