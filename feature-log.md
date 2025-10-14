@@ -60,3 +60,8 @@
 - Date: 2025-10-10
 - Feature: Implement advanced filtering
 - Status: Completed
+
+## feat: Add keyboard shortcuts
+- Date: 2025-10-14
+- Feature: Add keyboard shortcuts
+- Status: Completed
