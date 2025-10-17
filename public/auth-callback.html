@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Authentication Callback</title>
+</head>
+<body>
+    <div style="text-align: center; margin-top: 50px;">
+        <h2>Completing authentication...</h2>
+        <p>Please wait while we complete your Google sign-in.</p>
+    </div>
+
+    <script>
+        // Get the authorization code from URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const code = urlParams.get('code');
+        const state = urlParams.get('state');
+        const error = urlParams.get('error');
+
+        if (error) {
+            // Handle error
+            window.opener?.postMessage({
+                type: 'GOOGLE_AUTH_ERROR',
+                error: error
+            }, window.location.origin);
+            window.close();
+        } else if (code && state === 'auth') {
+            // Exchange code for token (simplified approach)
+            // In a real implementation, you'd exchange this code for an ID token
+            // For now, we'll send a mock token to demonstrate the flow
+            
+            window.opener?.postMessage({
+                type: 'GOOGLE_AUTH_SUCCESS',
+                credential: 'mock-google-token-from-code-' + code
+            }, window.location.origin);
+            window.close();
+        } else {
+            // No code received
+            window.opener?.postMessage({
+                type: 'GOOGLE_AUTH_ERROR',
+                error: 'No authorization code received'
+            }, window.location.origin);
+            window.close();
+        }
+    </script>
+</body>
+</html>
